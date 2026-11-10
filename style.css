@@ -12,3 +12,4 @@ a { color: var(--accent); }
 .carte { background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 18px 20px; margin: 24px 0; }
 footer { margin-top: 48px; color: var(--muted); font-size: .9rem; }
 .langues { font-size: .95rem; }
+.logo { display: block; width: 160px; height: auto; max-width: 100%; margin: 0 0 8px -12px; }
